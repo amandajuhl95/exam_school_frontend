@@ -76,7 +76,7 @@ export default function Teacher() {
         Here you can search for any teachers, to see which courses they teach
         in.
       </p>
-      <p> You can search for either Tine or Tue</p>
+      <p> You can search for either Tine, Tue, Lars or Palle</p>
       <input
         placeholder="Search by name"
         value={name}

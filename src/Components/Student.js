@@ -88,7 +88,7 @@ export default function Student() {
         Here you can search for any students, to see their grades, when they
         passed the course and other details
       </p>
-      <p> You can search for either Benjamin, Amalie or Amanda</p>
+      <p> You can search for either Benjamin, Amalie, Amanda, Laura or Jonas</p>
       <input
         placeholder="Search by name"
         value={name}

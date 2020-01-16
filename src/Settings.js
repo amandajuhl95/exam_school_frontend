@@ -1,1 +1,1 @@
-export default "http://localhost:8080/school/api/";
+export default "https://ajuhlhansen.dk/Exam_courses/api/";
